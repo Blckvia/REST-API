@@ -1,2 +1,3 @@
 # REST-API
-## This REST-API is under development
+## This is regulaer REST-API which was developing with MongoDB.
+### In this REST-API you could see CRUD, validation, authorization, registration, login, validation, jwt token, bcrypt which helps to encrypt users passwords, sessions, sockets, cookies.
